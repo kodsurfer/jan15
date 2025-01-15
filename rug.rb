@@ -11,4 +11,4 @@ def draw_rug(w, h)
   end
 end
 
-draw_rug(600, 800)
+draw_rug(6, 8)
